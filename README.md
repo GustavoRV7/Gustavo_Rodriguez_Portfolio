@@ -20,15 +20,21 @@ Para el desarrollo e implementacion de este Proyecto se realizó la conexion con
 
 # Proyecto 2: Análisis del Modulo Contable - SIAF
 Con este proyecto se buscaba analizar el modulo contable del Sistema Integrado de Administración Financiera - SIAF, exactamente del modulo de contabilidad, para conocer los flujos, movimientos y ejecucion en la parte presupuestaria de la entidad.
-Para el desarrollo de este proyecto se tuvo que realizar un ETL, ya que los datos del SIAF estan alojados en la base de datos Visual Fox Pro, donde se encontrò incompatibilidades de arquitectura al conectar directamente con el software de visualizacion.
-Se evaluaron las opciones para resolver este inconveniente dentro del desarrollo y se optò por migrar la base de datos a SQL Server, para que la extraccion de datos sea mas simple
+Para el desarrollo de este proyecto se tuvo que realizar una especie de ETL, ya que los datos del SIAF estan alojados en la base de datos Visual Fox Pro, donde se encontrò incompatibilidades de arquitectura al conectar directamente con el software de visualizacion.
+Se evaluaron las opciones para resolver este inconveniente dentro del desarrollo y se optò por migrar la base de datos a SQL Server, para facilitar la extracción de datos.
+
+
 **Procedimiento utilizado**
 ![Diagrama en blanco (3)](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/e98c2289-9b4e-42f6-ae4f-669b404cb847)
 
 Gracias a este proyecto se pudo:
-* as
+* Conocer mas a detalles del flujo y movimientos de presupuesto dentro de la entidad
+* Adelantarse a situaciones para preparar provisiones y disposicion de presupuesto.
+* Se mejoró la gestión financiera en general.
 
+**Enlace del Proyecto: https://app.powerbi.com/links/StSVhjA3QG?ctid=c5d23b09-af01-4aec-ab74-7a5d1da01084&pbi_source=linkShare**
 
+![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/02ea5abc-76c0-4b91-9324-145fa4d62ff0)
 
 
 
