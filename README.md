@@ -14,7 +14,7 @@ Para el desarrollo e implementacion de este Proyecto se realizó la conexion con
 ![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/98dfd9e1-9e89-473a-9f2f-09de27c2bc91)
 
 
-==============================================================================================================================================================================================================================
+======================================================================================================================================================================================================================
 
 # Proyecto 2: Análisis del Modulo Contable - SIAF
 Con este proyecto se buscaba analizar el modulo contable del Sistema Integrado de Administración Financiera - SIAF, exactamente del modulo de contabilidad, para conocer los flujos, movimientos y ejecucion en la parte presupuestaria de la entidad.
@@ -36,7 +36,7 @@ Gracias a este proyecto se pudo:
 ![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/02ea5abc-76c0-4b91-9324-145fa4d62ff0)
 
 
-==============================================================================================================================================================================================================================
+=========================================================================================================================================================================================================
 
 # Proyecto 3: Productividad de Asistentes Registrales
 El presente proyecto tiene como objetivo principal el conocer y monitorear la productividad de asistentes registrales, tanto de manera individual y de forma colectiva. A través de este análisis, se busca identificar áreas de mejora, detectar oportunidades de optimización y promover la eficiencia en el trabajo.
@@ -52,3 +52,7 @@ Lo que se busca mejorar con la implementacion de este proyecto es:
 * Mejora de la toma de decisiones: Al contar con datos y métricas objetivas sobre la productividad de los empleados, los líderes y gerentes pueden tomar decisiones más informadas y estratégicas. Esto puede incluir la asignación eficiente de recursos, la identificación de necesidades de capacitación o la reasignación de responsabilidades para maximizar el rendimiento.
 
 **Enlace del Proyecto: https://app.powerbi.com/view?r=eyJrIjoiYThiZjFjYjAtYTMwZS00MzU0LTg3YzQtYmVjMGUzYTA5YzljIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9**
+
+![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/7c606c70-57c9-48ab-b3d0-c9edaf812093)
+
+
