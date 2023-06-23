@@ -14,10 +14,7 @@ Para el desarrollo e implementacion de este Proyecto se realizó la conexion con
 ![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/98dfd9e1-9e89-473a-9f2f-09de27c2bc91)
 
 
-
-Alt-H1
-======
-
+==================================================
 
 # Proyecto 2: Análisis del Modulo Contable - SIAF
 Con este proyecto se buscaba analizar el modulo contable del Sistema Integrado de Administración Financiera - SIAF, exactamente del modulo de contabilidad, para conocer los flujos, movimientos y ejecucion en la parte presupuestaria de la entidad.
