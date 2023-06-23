@@ -14,7 +14,7 @@ Para el desarrollo e implementacion de este Proyecto se realizó la conexion con
 ![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/98dfd9e1-9e89-473a-9f2f-09de27c2bc91)
 
 
-======================================================================================================================================================================================================================
+=============================================================================================================================================================================
 
 # Proyecto 2: Análisis del Modulo Contable - SIAF
 Con este proyecto se buscaba analizar el modulo contable del Sistema Integrado de Administración Financiera - SIAF, exactamente del modulo de contabilidad, para conocer los flujos, movimientos y ejecucion en la parte presupuestaria de la entidad.
@@ -36,12 +36,14 @@ Gracias a este proyecto se pudo:
 ![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/02ea5abc-76c0-4b91-9324-145fa4d62ff0)
 
 
-=========================================================================================================================================================================================================
+=============================================================================================================================================================================
 
 # Proyecto 3: Productividad de Asistentes Registrales
 El presente proyecto tiene como objetivo principal el conocer y monitorear la productividad de asistentes registrales, tanto de manera individual y de forma colectiva. A través de este análisis, se busca identificar áreas de mejora, detectar oportunidades de optimización y promover la eficiencia en el trabajo.
 Los datos se extrajeron de la base de datos alojada en Oracle, para un mejor manejo se elaboraron vistas, con el fin de extraer datos específicos y trabajar con estos
+
 Este proyecto aún se encuentra en desarrollo para abarcar mas áreas de la entidad.
+
 Lo que se busca mejorar con la implementacion de este proyecto es:
 * Identificar de áreas de mejora: El análisis de productividad nos ayudará a identificar áreas específicas donde los empleados pueden mejorar su rendimiento.
 
