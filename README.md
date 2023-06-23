@@ -53,8 +53,9 @@ Lo que se busca mejorar con la implementacion de este proyecto es:
 
 * Mejora de la toma de decisiones: Al contar con datos y métricas objetivas sobre la productividad de los empleados, los líderes y gerentes pueden tomar decisiones más informadas y estratégicas. Esto puede incluir la asignación eficiente de recursos, la identificación de necesidades de capacitación o la reasignación de responsabilidades para maximizar el rendimiento.
 
-**Enlace del Proyecto: https://app.powerbi.com/view?r=eyJrIjoiYThiZjFjYjAtYTMwZS00MzU0LTg3YzQtYmVjMGUzYTA5YzljIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9**
+**Enlace del Proyecto: https://app.powerbi.com/view?r=eyJrIjoiMjEwMDU1MDgtZDQwYS00YzZlLWFkMjEtMzVjYjFlZDczNDFhIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9**
 
-![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/7c606c70-57c9-48ab-b3d0-c9edaf812093)
+![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/186e3526-82ec-4fa7-9692-8b3d5dd33dc6)
+
 
 
