@@ -25,7 +25,7 @@ Se evaluaron las opciones para resolver este inconveniente dentro del desarrollo
 
 
 **Procedimiento utilizado**
-![Diagrama en blanco (3)](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/e98c2289-9b4e-42f6-ae4f-669b404cb847)
+![Diagrama en blanco (3)](https://app.powerbi.com/view?r=eyJrIjoiYzkxZTIxMjgtNWIwMS00NGM2LTg1MmYtOTE1YzU4NmZmNjgwIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9)
 
 Gracias a este proyecto se pudo:
 * Conocer mas a detalles del flujo y movimientos de presupuesto dentro de la entidad
