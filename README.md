@@ -9,7 +9,7 @@ Para el desarrollo e implementacion de este Proyecto se realizó la conexion con
 * Se mejoró de manera puntual el proceso de gestión de inventario
 * Se optimizó la generacion de reportes para fines informativos
 
-**Enlace del Proyecto: https://app.powerbi.com/links/_XNFFaUNKF?ctid=c5d23b09-af01-4aec-ab74-7a5d1da01084&pbi_source=linkShare&bookmarkGuid=2717d91a-42c4-4f65-9d25-60487f5b0596**
+**Enlace del Proyecto: https://app.powerbi.com/view?r=eyJrIjoiOTA0MTY4NzUtNTgwYi00ODgzLWIyNGMtNGM3ZWQyZGQ2YmVjIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9**
 
 ![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/98dfd9e1-9e89-473a-9f2f-09de27c2bc91)
 
@@ -25,14 +25,15 @@ Se evaluaron las opciones para resolver este inconveniente dentro del desarrollo
 
 
 **Procedimiento utilizado**
-![Diagrama en blanco (3)](https://app.powerbi.com/view?r=eyJrIjoiYzkxZTIxMjgtNWIwMS00NGM2LTg1MmYtOTE1YzU4NmZmNjgwIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9)
+![Diagrama en blanco (3)](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/970abfa2-809c-478c-9a8d-bd7c7fb0b993)
+
 
 Gracias a este proyecto se pudo:
 * Conocer mas a detalles del flujo y movimientos de presupuesto dentro de la entidad
 * Adelantarse a situaciones para preparar provisiones y disposicion de presupuesto.
 * Se mejoró la gestión financiera en general.
 
-**Enlace del Proyecto: https://app.powerbi.com/links/StSVhjA3QG?ctid=c5d23b09-af01-4aec-ab74-7a5d1da01084&pbi_source=linkShare**
+**Enlace del Proyecto: https://app.powerbi.com/view?r=eyJrIjoiYzkxZTIxMjgtNWIwMS00NGM2LTg1MmYtOTE1YzU4NmZmNjgwIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9**
 
 ![image](https://github.com/GustavoRV7/Gustavo_Rodriguez_Portfolio/assets/79548065/02ea5abc-76c0-4b91-9324-145fa4d62ff0)
 
