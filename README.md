@@ -5,7 +5,7 @@
 EL objetivo principal de este proyecto es implementar un sistema eficiente y preciso que permitiera realizar un seguimiento completo de los equipos informáticos en nuestro inventario. Y a través del análisis de datos, pudimos obtener una visión integral de todos los equipos, sus características y ubicaciones actuales.
 Para el desarrollo e implementacion de este Proyecto se realizó la conexion con la base de datos alojada en Oracle, de las cuales se extrajeron los datos tablas puntuales para realizar el modelo en Power BI. Esta conexion nos facilita y asegura la consulta de los datos en tiempo real.
 
-* A traves de este proyecto principalmente aejoramos nuestra capacidad para planificar y tomar decisiones estratégicas relacionadas con la infraestructura tecnológica de la empresa
+* A traves de este proyecto principalmente mejoramos nuestra capacidad para planificar y tomar decisiones estratégicas relacionadas con la infraestructura tecnológica de la empresa
 * Se mejoró de manera puntual el proceso de gestión de inventario
 * Se optimizó la generacion de reportes para fines informativos
 
