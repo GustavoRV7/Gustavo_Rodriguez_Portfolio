@@ -51,7 +51,7 @@ Lo que se busca mejorar con la implementacion de este proyecto es:
 
 * Establecimiento de metas realistas: El análisis de productividad permite establecer metas y objetivos más realistas para los empleados, basados en datos y resultados concretos. Esto ayuda a fomentar un mayor compromiso y motivación, ya que los empleados tienen una comprensión clara de lo que se espera de ellos y cómo pueden alcanzarlo.
 
-* Mejora de la toma de decisiones: Al contar con datos y métricas objetivas sobre la productividad de los empleados, los líderes y gerentes pueden tomar decisiones más informadas y estratégicas. Esto puede incluir la asignación eficiente de recursos, la identificación de necesidades de capacitación o la reasignación de responsabilidades para maximizar el rendimiento.
+* Mejora de la toma de decisiones: Al contar con datos y métricas objetivas sobre la productividad de los empleados, los encargados de área pueden tomar decisiones más informadas y estratégicas. Esto puede incluir la asignación eficiente de recursos, la identificación de necesidades de capacitación o la reasignación de responsabilidades para maximizar el rendimiento.
 
 **Enlace del Proyecto: https://app.powerbi.com/view?r=eyJrIjoiYmFhYTBmNjAtODU4MS00NmZjLTllMmEtOTFjMTI3MzJhNzdmIiwidCI6ImM1ZDIzYjA5LWFmMDEtNGFlYy1hYjc0LTdhNWQxZGEwMTA4NCJ9**
 
